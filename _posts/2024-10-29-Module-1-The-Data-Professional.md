@@ -2,7 +2,7 @@
 layout: post
 title: Module-1-The-Data-Professional
 subtitle: First module
-categories: Python
+categories: [Blog]
 ---
 
 ## Module-1-The-Data-Professional
