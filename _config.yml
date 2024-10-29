@@ -40,7 +40,7 @@ author: Simon Langley
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "My ePortfolio (cleft) 2024-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   This ePortfolio has been created to record my skills and work as I undertake my MSc in Data Science with the University of Essex and then hopefully continuing as I move into the data science field
